@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206059526991",
+    "project_id": "project-blue-bird",
+    "storage_bucket": "project-blue-bird.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206059526991:android:4d98f276bb61b5e9ed033a",
+        "android_client_info": {
+          "package_name": "com.Citex.project_blue_bird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHIi2Zm8dagfxLEa20Ia5eoLpT5GaxdBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
